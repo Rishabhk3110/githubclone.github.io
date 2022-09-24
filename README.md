@@ -6,7 +6,7 @@
 
 Live here 👇
 
-[![Live](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://632f2483299c483247ae763b--effortless-tarsier-a52424.netlify.app/ "View Live")
+[![Live](https://img.shields.io/netlify/632f2483299c483247ae763b?logo=netlify&logoColor=white)](https://632f2483299c483247ae763b--effortless-tarsier-a52424.netlify.app/ "View Live")
 
 # Run
 
