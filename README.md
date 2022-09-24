@@ -6,6 +6,8 @@
 
 Live here 👇
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6cd739eb-49a9-4522-a4af-0b573c012968/deploy-status)](https://app.netlify.com/sites/effortless-tarsier-a52424/deploys)
+
 [![Live](https://img.shields.io/netlify/6cd739eb-49a9-4522-a4af-0b573c012968?color=green&logo=l&logoColor=white)](https://632f2483299c483247ae763b--effortless-tarsier-a52424.netlify.app/ "View Live")
 
 # Run
