@@ -6,7 +6,7 @@
 
 Live here 👇
 
-[![Live](https://img.shields.io/netlify/6cd739eb-49a9-4522-a4af-0b573c012968)](https://632f2483299c483247ae763b--effortless-tarsier-a52424.netlify.app/ "View Live")
+[![Live](https://img.shields.io/netlify/6cd739eb-49a9-4522-a4af-0b573c012968)](https://effortless-tarsier-a52424.netlify.app/ "View Live")
 
 # Run
 
