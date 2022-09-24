@@ -1,0 +1,149 @@
+.img {                                    /*Profile Photo*/
+  margin: auto;
+  margin-left: 64px;
+  width: 10px;
+  height: 10px;
+  border-radius: 10%;
+  object-fit: cover;
+}
+
+/* .dp {                                    
+  margin-left: 10px;
+} */
+
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main__repoContainer {                    /*6 box layout*/
+  background-color:white;
+  height:100vh; 
+  display: grid;
+  margin: auto;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.container {         
+  margin-left: 180px;                     /*box*/
+  width: 1000px;
+  /*height:auto;*/
+  padding: 1%;
+  float: left;
+  display: flex;
+  flex-direction: row;
+}
+
+h1 {
+  margin: auto;
+  color: #3e8acc;
+}
+
+h2 {
+  margin: auto;
+  font-size: 14px;
+}
+
+h3 {
+  margin: 0;
+  margin-left: 66px;
+  margin-top: 32px;
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 14px;
+  margin-left: 67px;
+}
+
+h5 {
+  font-size: 14px;
+  margin-left: 173px;
+}
+
+.link {
+  margin: auto;
+  font-size: 14px;
+  margin-left: 180px;
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
+.tag__container {
+  font-size: 14px;
+  font-family: Calibri;
+  background-color: #3e8acc;
+  padding: 0.5em 0.75em;
+  border-radius: 8px;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 10px;
+}
+.tag__label {
+  color: white;
+  margin: auto;
+  font-family: Calibri;
+  font-weight: bold;
+}
+
+.repo__container {
+  margin: 10px 60px;
+  background-color: white;
+  border: 2px solid rgba(0, 0, 0, 0.33);
+  width: 420px;
+  height: 120px;
+  /* margin: auto; */
+  margin-left: 100px ;
+}
+
+.repo__title {
+  margin: auto;
+  margin-left: 10px;
+  font-family: Calibri;
+  font-size: 28px;
+  font-weight: bold;
+  color: #3e8acc;
+}
+.repo__subtitle{
+  margin: auto;
+  margin-left: 10px;
+  font-family: Calibri;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.repo__tagContainer {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  margin-top: 8px;
+}
+
+button {
+  padding: 10px 20px;
+  border:1px solid #999999;
+  color: #999999;
+  background-color:white;
+  border-radius: 20px;
+}
+
+button:hover {
+  background-color: white;
+  color: #3e8acc;
+}
+
+.Button {
+  margin: auto;
+}
+
+
+.left_button {
+  margin-righ: 50px;
+  
+}
+
+.right_button {
+  margin-left: 188px;
+}
